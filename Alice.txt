@@ -3,3 +3,5 @@ Vamos aprender a criar Branchs
 Já aprendemos sobre branchs e agora estamos aprendendo a mergear
 Agora adicionamos o Patrick
 Realizando edição via Github
+Edição da Alice via working directory
+
