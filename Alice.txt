@@ -1,3 +1,4 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 Vamos aprender a criar Branchs
 Já aprendemos sobre branchs e agora estamos aprendendo a mergear
+Agora adicionamos o Patrick
